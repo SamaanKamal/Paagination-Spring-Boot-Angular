@@ -48,7 +48,7 @@ backend/Pagination/.springBeans
 backend/Pagination/.sts4-cache
 
 ### IntelliJ IDEA ###
-backend/Pagination/.idea
+.idea
 backend/Pagination/*.iws
 backend/Pagination/*.iml
 backend/Pagination/*.ipr
