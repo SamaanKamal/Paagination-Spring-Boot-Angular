@@ -26,3 +26,44 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+
+
+
+
+backend/Pagination/HELP.md
+backend/Pagination/target/
+backend/Pagination/.mvn/wrapper/
+backend/Pagination/mvnw.cmd
+backend/Pagination/mvnw
+backend/Pagination/!**/src/main/**/target/
+backend/Pagination/!**/src/test/**/target/
+
+### STS ###
+backend/Pagination/.apt_generated
+backend/Pagination/.classpath
+backend/Pagination/.factorypath
+backend/Pagination/.project
+backend/Pagination/.settings
+backend/Pagination/.springBeans
+backend/Pagination/.sts4-cache
+
+### IntelliJ IDEA ###
+backend/Pagination/.idea
+backend/Pagination/*.iws
+backend/Pagination/*.iml
+backend/Pagination/*.ipr
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+build/
+!**/src/main/**/build/
+!**/src/test/**/build/
+
+### VS Code ###
+.vscode/
+
+Pagination.zip
