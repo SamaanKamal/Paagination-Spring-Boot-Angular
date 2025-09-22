@@ -67,3 +67,4 @@ build/
 .vscode/
 
 Pagination.zip
+env.properties
